@@ -1,3 +1,22 @@
+# Quest React Básico 
+
+Desafio 1 - Componente que colore e transforma um texto para
+maiúsculo (uppercase) utilizando JS.
+
+Desafio 2 - Mostrar mensagem com a label do botão.
+
+![306shots_so](https://github.com/lopppes/treino-react-basico/assets/109006648/4d16b5da-b66d-4f71-a68e-77c3bd47829d)
+
+# Imagens App
+![744shots_so](https://github.com/lopppes/treino-react-basico/assets/109006648/b2c55cd7-8af7-40ca-9439-450e9f29ebbd)
+
+# Imagens ColorText
+![921shots_so](https://github.com/lopppes/treino-react-basico/assets/109006648/ea920a69-efe6-4950-af9f-471e7cf943c3)
+
+# Imagens Button
+![512shots_so](https://github.com/lopppes/treino-react-basico/assets/109006648/847a2a32-3d97-47ee-bc2b-8c9fc21381cf)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
