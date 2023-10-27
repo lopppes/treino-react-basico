@@ -1,0 +1,32 @@
+.center-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+Button {
+    margin-top: 30px;
+    background: linear-gradient(to bottom, #c51221, #eaa647);
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: background 0.3s, transform 0.3s, box-shadow 0.3s;
+  }
+  
+Button:hover {
+    background: linear-gradient(to bottom, #d0071f, #cf9f1d);
+    transform: scale(1.05);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+  }
+
+Button:active {
+    transform: scale(0.95);
+  }
+  
